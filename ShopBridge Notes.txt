@@ -1,0 +1,9 @@
+Database script is Uploaded
+Local DB connection String is added in Web.Config
+
+
+Robust theme is apllied for UI.
+Kept copyright of theme for sample project upload.
+
+
+
